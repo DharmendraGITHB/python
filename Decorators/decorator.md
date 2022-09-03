@@ -1,7 +1,8 @@
 ### What is decorator?
 Ans-  A decorator is function that takes another function and extends the behaviour of the another function without explicitly modifying it.
-<a href="https://book.pythontips.com/en/latest/decorators.html" target="_blank">example</a>
-<a href="https://realpython.com/primer-on-python-decorators/" target="_blank">example</a>
+<a href="https://book.pythontips.com/en/latest/decorators.html" target="_blank">pythontip</a>
+
+<a href="https://realpython.com/primer-on-python-decorators/" target="_blank">realpython</a>
 
 
 
